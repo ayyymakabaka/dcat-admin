@@ -1,6 +1,6 @@
 {
-    "name": "dcat/laravel-admin",
-    "description": "dcat admin",
+    "name": "dcat/laravel-admin84",
+    "description": "dcat admin - support php8.4 & laravel11.x",
     "type": "library",
     "keywords": [
         "dcat",
