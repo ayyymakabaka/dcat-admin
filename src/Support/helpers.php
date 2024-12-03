@@ -569,6 +569,7 @@ if (! function_exists('admin_redirect')) {
     function admin_redirect(string $to, int $statusCode = 302, ?Request $request = null)
     {
         return Helper::redirect($to, $statusCode, $request);
+
     }
 }
 
